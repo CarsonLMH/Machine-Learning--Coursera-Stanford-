@@ -1,2 +1,3 @@
-# Machine-Learning--Coursera-Stanford-
-My work in the course.
+# Machine Learning
+
+Course taught by Dr. Andrew Ng (https://www.coursera.org/learn/machine-learning).
